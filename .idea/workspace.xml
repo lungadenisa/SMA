@@ -9,11 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a215eae2-d4a3-4f1f-a3e1-c25d9a81d70c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="a215eae2-d4a3-4f1f-a3e1-c25d9a81d70c" name="Changes" comment="lab1 files">
+      <change afterPath="$PROJECT_DIR$/lab3/app/src/main/java/com/example/myapplication/intents/IntentFilterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/app/src/main/res/layout/activity_intent_filter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/app/src/main/res/layout/activity_main_intent.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
