@@ -34,11 +34,11 @@ public class PowerConnectionReceiver extends BroadcastReceiver{
             boolean acCharge = chargePlug == BatteryManager.BATTERY_PLUGGED_AC;
 
             if (isCharging && usbCharge) {
-                charging.setText("The phone is charging using USB");
+                charging.setText("Status: the phone is charging using USB");
             } else if (isCharging && acCharge) {
-                charging.setText("The phone is charging using AC");
+                charging.setText("Status: the phone is charging using AC");
             } else {
-                charging.setText("The phone is not charging");
+                charging.setText("Status: the phone is not charging");
             }
 
             Intent newIntent = new Intent(context, MainActivity.class);
