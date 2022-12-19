@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600613462726",
+    "firebase_url": "https://smartwallet-496da-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartwallet-496da",
+    "storage_bucket": "smartwallet-496da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600613462726:android:f05f101984b77d1efc2dc7",
+        "android_client_info": {
+          "package_name": "com.upt.cti.smartwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600613462726-m9jhkf6ka5scjjj8fe13ug507u0556gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUqVhkrgOzVqhPla5oTJtUozio5As0YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600613462726-m9jhkf6ka5scjjj8fe13ug507u0556gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
